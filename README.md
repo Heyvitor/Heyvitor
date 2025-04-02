@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o Vitor 👋
 
-<!--
-**Heyvitor/Heyvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir para projetos de código aberto. Atualmente, estou envolvido em diversos projetos que abrangem desde desenvolvimento web até aprendizado de máquina.
 
-Here are some ideas to get you started:
+## 🔭 Projetos Atuais
+- **Desenvolvimento Web**: Desenvolvendo aplicações web modernas utilizando React, Vue.js, Node.js e GraphQL.
+- **Aprendizado de Máquina**: Explorando redes neurais e processamento de linguagem natural com Python e TensorFlow.
+- **Back-end**: Desenvolvendo APIs e sistemas back-end robustos.
+- **Código Aberto**: Contribuindo ativamente para diversos projetos de código aberto no GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Aprendizado Contínuo
+- Aperfeiçoando habilidades em JavaScript, Python e computação em nuvem.
+- Estudando Kubernetes e Docker para orquestração de contêineres.
+- Aprofundando conhecimentos em ciência de dados e tecnologias de big data.
+- Cursando Análise e Desenvolvimento de Sistemas.
+
+## 💬 Áreas de Interesse
+- Desenvolvimento Web
+- Aprendizado de Máquina
+- Contribuições de Código Aberto
+- Computação em Nuvem
+- Desenvolvimento Back-end
+
+## 📫 Como Me Encontrar
+- GitHub: [Heyvitor](https://github.com/Heyvitor)
+- LinkedIn: [Vitor no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-araujo-8941352a2/)
+- Email: kingvitor01@gmail.com
+- WhatsApp: [Entre em contato](https://wa.me/55021986748720)
+- YouTube: [Meu Canal no YouTube](https://www.youtube.com/@euvitoraraujo)
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub do Heyvitor](https://github-readme-stats.vercel.app/api?username=Heyvitor&show_icons=true&theme=radical)
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens**: JavaScript, Python, HTML, CSS
+- **Frameworks**: React, Vue.js, Node.js, Express, TensorFlow
+- **Ferramentas**: Git, Docker, Kubernetes, VS Code
+- **Bancos de Dados**: MongoDB, PostgreSQL, MySQL
+
+## 📝 Blog
+- [Meu Blog Pessoal](https://heyvitor-blog.com) - Compartilhando minha jornada, tutoriais e dicas sobre desenvolvimento web e aprendizado de máquina.
+
+## 🤝 Vamos Conectar
+Sinta-se à vontade para entrar em contato se quiser colaborar em projetos ou discutir sobre tecnologia. Estou sempre aberto a novas oportunidades e conexões!
