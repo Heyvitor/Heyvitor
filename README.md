@@ -37,8 +37,5 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir pa
 - **Ferramentas**: Git, Docker, Kubernetes, VS Code
 - **Bancos de Dados**: MongoDB, PostgreSQL, MySQL
 
-## 📝 Blog
-- [Meu Blog Pessoal](https://heyvitor-blog.com) - Compartilhando minha jornada, tutoriais e dicas sobre desenvolvimento web e aprendizado de máquina.
-
 ## 🤝 Vamos Conectar
 Sinta-se à vontade para entrar em contato se quiser colaborar em projetos ou discutir sobre tecnologia. Estou sempre aberto a novas oportunidades e conexões!
