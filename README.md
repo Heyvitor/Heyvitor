@@ -1,10 +1,10 @@
-# Olá, eu sou o Vitor 👋
+# Olá, eu sou o Vitor Araujo 👋
 
 Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir para projetos de código aberto. Atualmente, estou envolvido em diversos projetos que abrangem desde desenvolvimento web até aprendizado de máquina.
 
 ## 🔭 Projetos Atuais
-- **Desenvolvimento Web**: Desenvolvendo aplicações web modernas utilizando React, Vue.js, Node.js e GraphQL.
-- **Aprendizado de Máquina**: Explorando redes neurais e processamento de linguagem natural com Python e TensorFlow.
+- **Desenvolvimento Web**: Desenvolvendo aplicações web modernas utilizando React, Vue.js, Node.js e GraphQL e PHP.
+- **Aprendizado de Máquina**: Explorando redes neurais e processamento de linguagem natural com Python.
 - **Back-end**: Desenvolvendo APIs e sistemas back-end robustos.
 - **Código Aberto**: Contribuindo ativamente para diversos projetos de código aberto no GitHub.
 
@@ -20,6 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir pa
 - Contribuições de Código Aberto
 - Computação em Nuvem
 - Desenvolvimento Back-end
+- Desenvolvimento no code com N8N
 
 ## 📫 Como Me Encontrar
 - GitHub: [Heyvitor](https://github.com/Heyvitor)
@@ -35,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir pa
 - **Linguagens**: JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Vue.js, Node.js, Express, TensorFlow
 - **Ferramentas**: Git, Docker, Kubernetes, VS Code
-- **Bancos de Dados**: MongoDB, PostgreSQL, MySQL
+- **Bancos de Dados**: PostgreSQL, MySQL
 
 ## 🤝 Vamos Conectar
 Sinta-se à vontade para entrar em contato se quiser colaborar em projetos ou discutir sobre tecnologia. Estou sempre aberto a novas oportunidades e conexões!
