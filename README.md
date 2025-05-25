@@ -24,7 +24,6 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir pa
 
 ## 📫 Como Me Encontrar
 - GitHub: [Heyvitor](https://github.com/Heyvitor)
-- LinkedIn: [Vitor no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-araujo-8941352a2/)
 - Email: kingvitor01@gmail.com
 - WhatsApp: [Entre em contato](https://wa.me/55021986748720)
 - YouTube: [Meu Canal no YouTube](https://www.youtube.com/@euvitoraraujo)
