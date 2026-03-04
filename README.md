@@ -25,8 +25,7 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir pa
 ## 📫 Como Me Encontrar
 - GitHub: [Heyvitor](https://github.com/Heyvitor)
 - Email: kingvitor01@gmail.com
-- WhatsApp: [Entre em contato](https://wa.me/55021986748720)
-- YouTube: [Meu Canal no YouTube](https://www.youtube.com/@euvitoraraujo)
+- WhatsApp: [Entre em contato](https://wa.me/5521993463565)
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub do Heyvitor](https://github-readme-stats.vercel.app/api?username=Heyvitor&show_icons=true&theme=radical)
