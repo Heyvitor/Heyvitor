@@ -23,12 +23,9 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em criar e contribuir pa
 - Desenvolvimento no code com N8N
 
 ## 📫 Como Me Encontrar
-- GitHub: [Heyvitor](https://github.com/Heyvitor)
+- Linkedin: [Vitor Araujo](https://www.linkedin.com/in/vitor-araujo-8941352a2/)
 - Email: kingvitor01@gmail.com
 - WhatsApp: [Entre em contato](https://wa.me/5521993463565)
-
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub do Heyvitor](https://github-readme-stats.vercel.app/api?username=Heyvitor&show_icons=true&theme=radical)
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: JavaScript, Python, HTML, CSS
